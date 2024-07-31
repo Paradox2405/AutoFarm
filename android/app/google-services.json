@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "782156832462",
+    "firebase_url": "https://autofarm-fb344-default-rtdb.firebaseio.com",
+    "project_id": "autofarm-fb344",
+    "storage_bucket": "autofarm-fb344.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782156832462:android:5ec2fc0378f3f6e9a0fa9f",
+        "android_client_info": {
+          "package_name": "com.example.autofarm.autofarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782156832462-jg7dmnissm4ci6qmnk2us74a1qtbq5qr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcFIsKiYjLTejzQr6xzpi6dp71vr-POxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782156832462-jg7dmnissm4ci6qmnk2us74a1qtbq5qr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "782156832462-32rfbtokjjmp85bq6gt7eq1mv166ijks.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.autofarm.autofarm"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
