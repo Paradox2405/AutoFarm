@@ -57,7 +57,7 @@ class _HomeViewState extends State<HomeView> {
     humiditySensorRef.onValue.listen((DatabaseEvent event) {
       final data = event.snapshot.value;
       Map<String, dynamic> dataMap = Map<String, dynamic>.from(data as Map);
-      humiditySensorValue = dataMap.entries.first.value;
+      humiditySensorValue = dataMap.entries.last.value;
       setState(() {});
     });
   }
